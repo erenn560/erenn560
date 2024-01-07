@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/search?q=ai+wallpaper&tbm=isch&ved=2ahUKEwjmqYv91cuDAxVlVeUKHYgiAaAQ2-cCegQIABAA&oq=AI+wa&gs_lcp=CgNpbWcQARgAMgUIABCABDIFCAAQgAQyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46BAgjECc6BwgAEIAEEBM6CAgAEAcQHhATOggIABAIEB4QEzoKCAAQgAQQigUQQ1CmBVizDGDhFmgAcAB4AIABvwOIAfAHkgEJMC4yLjEuMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=282aZabQH-WqlQeIxYSACg&bih=845&biw=1440#imgrc=Ig20CvNy1u2ymM)
+[![MasterHead](https://www.peakpx.com/en/hd-wallpaper-desktop-fvcev)
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>
 
