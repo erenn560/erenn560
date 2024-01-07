@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pxfuel.com/en/desktop-wallpaper-njhmq)]
+https://www.pxfuel.com/en/desktop-wallpaper-njhmq
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>
 
