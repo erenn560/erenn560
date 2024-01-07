@@ -1,4 +1,4 @@
-[![MasterHead](https://www.peakpx.com/en/hd-wallpaper-desktop-fvcev)
+[![MasterHead](https://wallpaper.dog/large/20392611.png)
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>
 
