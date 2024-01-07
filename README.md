@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>
 
+- 🔭 I’m currently working on **AI**
+
+- 💬 Ask me about **Machine Learning**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eren arslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren arslan" height="30" width="40" /></a>
