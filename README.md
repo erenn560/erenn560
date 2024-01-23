@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eren-arslan-11a6b1209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren-arslan-11a6b1209" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yunus-eren-arslan-11a6b1209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus-eren-arslan-11a6b1209" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,5 +19,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenn560&show_icons=true&locale=en" alt="erenn560" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenn560&" alt="erenn560" /></p>
+
 
 
