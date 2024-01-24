@@ -1,4 +1,4 @@
-![MasterHead](https://temizenerji.org/wp-content/uploads/2022/05/Black-and-White-Blog-Banner-2022-05-03T213908.674.png)  
+![MasterHead](https://r4.wallpaperflare.com/wallpaper/315/20/58/portal-game-video-games-robot-artificial-intelligence-wallpaper-32918200dd36ee2b1a88c2d580180922.jpg)  
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>    
 
