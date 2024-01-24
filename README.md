@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.pixabay.com/photo/2024/01/07/18/51/ai-generated-8493999_1280.jpg)
+![MasterHead](https://temizenerji.org/wp-content/uploads/2022/05/Black-and-White-Blog-Banner-2022-05-03T213908.674.png)  
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>    
 
