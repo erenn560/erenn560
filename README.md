@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.pixabay.com/photo/2024/01/07/18/51/ai-generated-8493999_1280.jpg)  
+<img src="https://cdn.pixabay.com/photo/2024/01/07/18/51/ai-generated-8493999_1280.jpg" width="auto">
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>    
 
