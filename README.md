@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **AI**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
