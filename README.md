@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.pixabay.com/photo/2024/01/07/18/51/ai-generated-8493999_1280.jpg)  
+![MasterHead](https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif)  
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>    
 
