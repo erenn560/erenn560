@@ -1,4 +1,4 @@
-![MasterHead](https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif)  
+![MasterHead](https://www.mulesoft.com/)  
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>    
 
