@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/userupload/32690165/file/original-91b920c5af3417e456bc46004300944d.gif)  
+![MasterHead](https://cdn.dribbble.com/userupload/24102843/file/original-312073f1afffa8d99228bbdc09972821.gif)  
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>    
 
