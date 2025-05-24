@@ -1,4 +1,4 @@
-![MasterHead](https://nexscient.ai/)  
+![MasterHead](https://nexscient.ai/wp-content/uploads/2024/01/1665543413870.gif)  
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>    
 
