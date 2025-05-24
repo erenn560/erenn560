@@ -1,4 +1,4 @@
-![MasterHead](https://nexscient.ai/wp-content/uploads/2024/01/1665543413870.gif)  
+![MasterHead](https://cdn.dribbble.com/userupload/32690165/file/original-91b920c5af3417e456bc46004300944d.gif)  
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate AI developer from Turkey</h3>    
 
